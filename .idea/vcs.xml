@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../Swipe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ThreadingDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../ThreadingDemo/ThreadingDemo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../gathering" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../gathering/gathering" vcs="Git" />
+  </component>
+</project>
