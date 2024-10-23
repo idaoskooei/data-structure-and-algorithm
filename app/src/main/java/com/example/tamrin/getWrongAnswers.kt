@@ -1,5 +1,5 @@
 package com.example.tamrin
-
+// medium
 fun main() {
     println(getWrongAnswers(n = 3, "aba"))
 

@@ -1,7 +1,7 @@
 package com.example.tamrin
 
 import kotlin.math.abs
-
+// easy
 /*
 Given a square matrix, calculate the absolute difference between the sums of its diagonals.
  */

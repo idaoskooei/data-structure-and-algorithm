@@ -1,4 +1,5 @@
 package com.example.tamrin
+// medium
 
 // Given two binary strings a and b, return their sum as a binary string.
 
