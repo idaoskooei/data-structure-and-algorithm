@@ -1,4 +1,4 @@
-package com.example.tamrin
+package com.example.tamrin.string.medium
 // medium
 /*
   Write a function to find the longest common prefix string amongst an array of strings.

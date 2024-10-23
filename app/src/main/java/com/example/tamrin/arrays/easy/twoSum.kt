@@ -1,5 +1,6 @@
-package com.example.tamrin
+package com.example.tamrin.arrays.easy
 // easy
+//  hashing, and algorithmic problem-solving.
 /*
 Given an array of integers nums and an integer target,
 return indices of the two numbers such that they add up to target.

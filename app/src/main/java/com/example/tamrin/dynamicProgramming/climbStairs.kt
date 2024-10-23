@@ -1,4 +1,4 @@
-package com.example.tamrin
+package com.example.tamrin.dynamicProgramming
 // medium
 /*
 You are climbing a staircase. It takes n steps to reach the top.

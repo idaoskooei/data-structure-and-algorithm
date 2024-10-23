@@ -1,4 +1,4 @@
-package com.example.tamrin
+package com.example.tamrin.string.medium
 // medium
 /*
     A phrase is a palindrome if, after converting all

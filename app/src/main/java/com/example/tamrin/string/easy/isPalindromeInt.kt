@@ -1,4 +1,4 @@
-package com.example.tamrin
+package com.example.tamrin.string.easy
 // easy
 /*
 Given an integer x, return true if x is a palindrome, and false otherwise.

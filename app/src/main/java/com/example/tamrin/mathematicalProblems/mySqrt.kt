@@ -1,4 +1,4 @@
-package com.example.tamrin
+package com.example.tamrin.mathematicalProblems
 
 import kotlin.math.sqrt
 // easy

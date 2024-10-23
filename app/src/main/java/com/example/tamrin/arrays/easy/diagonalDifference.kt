@@ -1,4 +1,4 @@
-package com.example.tamrin
+package com.example.tamrin.arrays.easy
 
 import kotlin.math.abs
 // easy

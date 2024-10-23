@@ -1,4 +1,4 @@
-package com.example.tamrin
+package com.example.tamrin.arrays.medium
 // medium
 /*
 Given an array of integers, where all elements but one occur twice, find the unique element.

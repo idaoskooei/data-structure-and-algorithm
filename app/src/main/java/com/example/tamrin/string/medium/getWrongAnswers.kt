@@ -1,4 +1,4 @@
-package com.example.tamrin
+package com.example.tamrin.string.medium
 // medium
 fun main() {
     println(getWrongAnswers(n = 3, "aba"))

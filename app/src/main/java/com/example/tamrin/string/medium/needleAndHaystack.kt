@@ -1,4 +1,4 @@
-package com.example.tamrin
+package com.example.tamrin.string.medium
 // medium
 /*
 Given two strings needle and haystack,
